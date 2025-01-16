@@ -1,6 +1,14 @@
 # 💫 About Me:
 I’m a Computer Science student at Suleyman Demirel University with 5 years of experience in C++ and 2 years focused on Java. I’ve gained practical experience working at IT Park, where I contributed to various projects. I’m passionate about coding, learning new technologies, and collaborating on software development.<br><br>Skills  <br>- Java, C++  <br>- Git, SQL  <br>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dbaglan/dbaglan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dbaglan/dbaglan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dbaglan/dbaglan/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dbaglann)
