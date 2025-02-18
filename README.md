@@ -3,6 +3,7 @@ I’m a Computer Science student at Suleyman Demirel University with 5 years of 
 
 ![Snake animation](https://github.com/dbaglan/dbaglan/blob/output/github-contribution-grid-snake.svg)
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dbaglann)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dbaglan) 
