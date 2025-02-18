@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a Computer Science student at Suleyman Demirel University with 5 years of experience in C++ and 2 years focused on Java. I’ve gained practical experience working at IT Park, where I contributed to various projects. I’m passionate about coding, learning new technologies, and collaborating on software development.<br><br>Skills  <br>- Java, C++  <br>- Git, SQL  <br>
 
-![snake gif](https://github.com/dbaglan/dbaglan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/dbaglan/dbaglan/blob/output/github-snake-dark.svg)
 
 
 ## 🌐 Socials:
