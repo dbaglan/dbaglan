@@ -4,6 +4,7 @@ I’m a Computer Science student at Suleyman Demirel University with 5 years of 
 ![snake gif](https://github.com/dbaglan/dbaglan/blob/output/github-snake-dark.svg)
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dbaglann)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dbaglan) 
@@ -16,8 +17,10 @@ I’m a Computer Science student at Suleyman Demirel University with 5 years of 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dbaglan&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dbaglan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dbaglan&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
