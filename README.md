@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student at Suleyman Demirel University with 5 years of experience in C++ and 2 years focused on Java. I’ve gained practical experience working at IT Park, where I contributed to various projects. I’m passionate about coding, learning new technologies, and collaborating on software development.<br><br>Skills  <br>- Java, C++  <br>- Git, SQL  <br>
+I’m third year Computer Science student at Suleyman Demirel University with 5 years of experience in C++ and 3 years focused on Java. I’ve gained practical experience working at IT Park, where I contributed to various projects. I’m passionate about coding, learning new technologies, and collaborating on software development.<br><br>Skills  <br>- Java, C++  <br>- Git, SQL  <br>
 
 ![snake gif](https://github.com/dbaglan/dbaglan/blob/output/github-snake-dark.svg)
 
@@ -16,10 +16,6 @@ I’m a Computer Science student at Suleyman Demirel University with 5 years of 
 ![](https://github-readme-stats.vercel.app/api?username=dbaglan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dbaglan&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dbaglan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ### 🔝 Top Contributed Repo
